@@ -1,1 +1,2 @@
-# mobile-test-automation
+# mobiletestautomation
+Mobile automation test framework with Appium and cucumber 
